@@ -1,0 +1,13 @@
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\DataProvider.deps.json
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\DataProvider.dll
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\DataProvider.pdb
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\DataObjects.dll
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\DataObjects.pdb
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.csprojAssemblyReference.cache
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.csproj.CoreCompileInputs.cache
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.AssemblyInfoInputs.cache
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.AssemblyInfo.cs
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.csproj.CopyComplete
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.dll
+C:\Repositories\HiveMarketingApp\DataProvider\obj\Debug\netcoreapp2.1\DataProvider.pdb
+C:\Repositories\HiveMarketingApp\DataProvider\bin\Debug\netcoreapp2.1\LocationData.csv

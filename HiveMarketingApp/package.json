@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "google-maps-api-loader": "^1.1.1",
+    "vue": "^2.6.12"
+  }
+}

@@ -1,0 +1,8 @@
+C:\Repositories\HiveMarketingApp\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.deps.json
+C:\Repositories\HiveMarketingApp\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.dll
+C:\Repositories\HiveMarketingApp\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.pdb
+C:\Repositories\HiveMarketingApp\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.csproj.CoreCompileInputs.cache
+C:\Repositories\HiveMarketingApp\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.AssemblyInfoInputs.cache
+C:\Repositories\HiveMarketingApp\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.AssemblyInfo.cs
+C:\Repositories\HiveMarketingApp\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.dll
+C:\Repositories\HiveMarketingApp\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.pdb

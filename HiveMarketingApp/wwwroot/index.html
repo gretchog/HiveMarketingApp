@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Hive Marketing Cloud App</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script type="module" src="lib/google-maps-api-loader/google-maps-api-loader.js"></script>
+    <script>
+        //import googleMapApiLoader from "lib/google-maps-api-loader/google-maps-api-loader.js";
+        //import { POINT_MARKER_ICON_CONFIG } from "./constants/mapSettings";
+
+        function fetchPointsOfInterest() {
+            return fetch("/api/map")
+                .then(response => response.json())
+                .then(data => alert(data))
+                .catch(error => console.error('Unable to get items.', error));
+        }
+
+        fetchPointsOfInterest();
+        /*var marker = new Vue.component('marker', {
+            props: {
+                google: {
+                    type: Object,
+                    required: true
+                },
+                map: {
+                    type: Object,
+                    required: true
+                },
+                marker: {
+                    type: Object,
+                    required: true
+                }
+            },
+
+            mounted() {
+                const { Marker } = this.google.maps;
+
+                new Marker({
+                    position: this.marker.position,
+                    marker: this.marker,
+                    map: this.map,
+                    icon: POINT_MARKER_ICON_CONFIG
+                });
+            },
+
+            render() { }
+        });
+        var mapLoader = new Vue.component('map-loader', {
+            props: {
+                mapConfig: Object,
+                apiKey: String
+            },
+
+            data() {
+                return {
+                    google: null,
+                    map: null
+                };
+            },
+
+            async mounted() {
+                const googleMapApi = await googleMapApiLoader({
+                    apiKey: this.apiKey
+                });
+                this.google = googleMapApi;
+                this.initializeMap();
+            },
+
+            methods: {
+                initializeMap() {
+                    const mapContainer = this.$refs.googleMap;
+                    this.map = new this.google.maps.Map(mapContainer, this.mapConfig);
+                }
+            }
+        });
+        var map = new Vue.component('map', {
+            data: {
+                markers: [
+                    {
+                        id: "a",
+                        position: { lat: 3, lng: 101 }
+                    },
+                    {
+                        id: "b",
+                        position: { lat: 5, lng: 99 }
+                    },
+                    {
+                        id: "c",
+                        position: { lat: 6, lng: 97 }
+                    }
+                ]
+            }
+        });
+        var app = new Vue(
+            {
+                el: "#app",
+                component: map
+            });*/
+    </script>
+</head>
+
+<body>
+    <!--<template>
+        <div>
+            <TravelMap class="travel-map" />
+        </div>
+    </template>
+    <template>
+        <div>
+            <div class="google-map"
+                 ref="googleMap"></div>
+            <template v-if="Boolean(this.google) && Boolean(this.map)">
+                <slot :google="google"
+                      :map="map" />
+            </template>
+        </div>
+    </template>
+    <template>
+        <GoogleMapLoader :mapConfig="mapConfig"
+                         apiKey="AIzaSyCI7EPHRhUcE10eBjdVdzq4wkI56YHduDQ">
+
+            <template slot-scope="{ google, map }">
+                <GoogleMapMarker v-for="marker in markers"
+                                 :key="marker.id"
+                                 :marker="marker"
+                                 :google="google"
+                                 :map="map" />
+            </template>
+        </GoogleMapLoader>
+    </template>-->
+    <div id="header">
+        <h1>Welcome!</h1>
+    </div>
+    <div id="app">
+
+    </div>
+</body>
+
+</html>

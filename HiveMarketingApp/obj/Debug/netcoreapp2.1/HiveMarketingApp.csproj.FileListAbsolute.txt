@@ -1,0 +1,14 @@
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\bin\Debug\netcoreapp2.1\HiveMarketingApp.deps.json
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\bin\Debug\netcoreapp2.1\HiveMarketingApp.runtimeconfig.json
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\bin\Debug\netcoreapp2.1\HiveMarketingApp.runtimeconfig.dev.json
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\bin\Debug\netcoreapp2.1\HiveMarketingApp.dll
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\bin\Debug\netcoreapp2.1\HiveMarketingApp.pdb
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.csprojAssemblyReference.cache
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.csproj.CoreCompileInputs.cache
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.RazorAssemblyInfo.cache
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.RazorAssemblyInfo.cs
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.AssemblyInfoInputs.cache
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.AssemblyInfo.cs
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.RazorTargetAssemblyInfo.cache
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.dll
+C:\Repositories\HiveMarketingApp\HiveMarketingApp\obj\Debug\netcoreapp2.1\HiveMarketingApp.pdb
